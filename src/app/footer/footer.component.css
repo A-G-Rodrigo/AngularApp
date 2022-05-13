@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+footer{
+    background-color: rgb(146, 82, 206);
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#Nombre{
+    color:aqua;
+    margin-left: 17px;
+}
+#EnlacesInteres{
+    margin-right: 17px;
+}
